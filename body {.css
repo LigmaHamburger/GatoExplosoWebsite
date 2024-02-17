@@ -5,82 +5,28 @@ body {
   font-family: sans-serif;
 }
 
-#Who {
-  font-weight:900;
-}
-
-#The_Team {
-  font-weight:900;
-}
-
-#The_Team_Photos {
-  font-weight: 900;
-}
-
-#What_Have_They_Made {
-  font-weight: 900;
-}
-
-#Horrificus {
-  font-weight:900;
-}
-
-#Game_Desc {
-  font-weight:900;
-}
-
-#Game_Cover1 {
-  font-weight:900;
-}
-
-#The_Story {
-  font-weight:900;
-}
-
-#Gato_Exploso {
-  font-weight:900;
-}
-
-#Game_Desc2 {
-  font-weight:900;
-}
-
-#Game_Cover2 {
-  font-weight:900;
-}
-
-#The_Story2 {
-  font-weight:900;
-}
-
-#How_Do_They_Do_It {
-  font-weight:900;
-}
-
-#Mobs_and_Bosses {
-  font-weight:900;
-}
-
-#Mobs_and_Bosses2 {
-  font-weight:900;
-}
-
-#PWRUPs_and_Weapons {
-  font-weight:900;
-}
-
-#PWRUPs_and_Weapons2 {
-  font-weight:900;
-}
-
+#Who,
+#The_Team,
+#The_Team_Photos,
+#What_Have_They_Made,
+#Horrificus,
+#Game_Desc,
+#Game_Cover,
+#The_Story,
+#Gato_Exploso,
+#Game_Desc2,
+#Game_Cover2,
+#The_Story2,
+#How_Do_They_Do_It,
+#Mobs_and_Bosses,
+#Mobs_and_Bosses2,
+#PWRUPs_and_Weapons,
+#PWRUPs_and_Weapons,
 #OG_Blog {
   font-weight:900;
 }
 
-#Blog {
-  font-style:italic;
-}
-
+#Blog,
 #Kazuya {
   font-style:italic;
 }
