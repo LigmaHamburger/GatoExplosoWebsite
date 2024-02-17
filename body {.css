@@ -73,6 +73,14 @@ body {
   font-weight:900;
 }
 
+#OG_Blog {
+  font-weight:900;
+}
+
+#Blog {
+  font-style:italic;
+}
+
 #Kazuya {
-  font-style: italic;
+  font-style:italic;
 }
